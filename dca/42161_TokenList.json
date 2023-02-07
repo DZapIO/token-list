@@ -1,0 +1,87 @@
+[
+  {
+    "contract": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logo": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
+    "quote_rate": null,
+    "verified": true,
+    "balance": "0",
+    "allowance": "0"
+  },
+  {
+    "contract": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logo": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+    "quote_rate": null,
+    "verified": true,
+    "balance": "0",
+    "allowance": "0"
+  },
+  {
+    "contract": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "name": "USD Coin (Arb1)",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logo": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+    "quote_rate": null,
+    "verified": true,
+    "balance": "0",
+    "allowance": "0"
+  },
+
+  {
+    "contract": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logo": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
+    "quote_rate": null,
+    "verified": true,
+    "allowance": "0",
+    "balance": "0"
+  },
+  {
+    "contract": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logo": "https://tokens.1inch.io/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png",
+    "quote_rate": null,
+    "verified": true,
+    "balance": "0"
+  },
+  {
+    "contract": "0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0",
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "decimals": 18,
+    "logo": "https://tokens.1inch.io/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984.png",
+    "quote_rate": null,
+    "verified": true,
+    "balance": "0"
+  },
+  {
+    "contract": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "name": "ChainLink Token",
+    "symbol": "LINK",
+    "decimals": 18,
+    "logo": "https://tokens.1inch.io/0x514910771af9ca656af840dff83e8264ecf986ca.png",
+    "quote_rate": null,
+    "verified": true,
+    "balance": "0"
+  },
+  {
+    "contract": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+    "name": "GMX",
+    "symbol": "GMX",
+    "decimals": 18,
+    "logo": "https://tokens.1inch.io/0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a.png",
+    "quote_rate": null,
+    "verified": true,
+    "balance": "0"
+  }
+]
