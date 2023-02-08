@@ -143,17 +143,6 @@
     "isStable": false
   },
   {
-    "contract": "0x5fe2B58c013d7601147DcdD68C143A77499f5531",
-    "name": "The Graph",
-    "symbol": "GRT",
-    "decimals": 18,
-    "logo": "https://polygonscan.com/token/images/TheGraph_32.png",
-    "quote_rate": null,
-    "type": "",
-    "isActive": true,
-    "isStable": false
-  },
-  {
     "contract": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
     "name": "Aave (PoS)",
     "symbol": "AAVE",
