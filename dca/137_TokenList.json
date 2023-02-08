@@ -11,17 +11,6 @@
     "isStable": false
   },
   {
-    "contract": "0x0000000000000000000000000000000000001010",
-    "name": "Matic",
-    "symbol": "MATIC",
-    "decimals": 18,
-    "logo": "https://tokens.1inch.io/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png",
-    "quote_rate": null,
-    "type": "",
-    "isActive": true,
-    "isStable": false
-  },
-  {
     "contract": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
     "name": "Tether USD",
     "symbol": "USDT",
