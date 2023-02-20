@@ -1,4 +1,14 @@
 [
+ {
+      "contract": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "name": "MATIC",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logo": "https://tokens.1inch.io/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png",
+      "quote_rate": null,
+      "verified": true,
+      "balance": "0"
+  },
   {
     "contract": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
     "name": "Wrapped Matic",
