@@ -1,5 +1,16 @@
 [
   {
+    "contract": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logo": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png",
+    "quote_rate": null,
+    "verified": true,
+    "balance": "0",
+    "isNative": true
+  },
+  {
     "contract": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
     "name": "Wrapped Ether",
     "symbol": "WETH",
@@ -7,8 +18,7 @@
     "logo": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
     "quote_rate": null,
     "type": "",
-    "isActive": true,
-    "isStable": false
+    "isActive": true
   },
   {
     "contract": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
@@ -40,7 +50,6 @@
     "logo": "https://tokens.1inch.io/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png",
     "quote_rate": null,
     "type": "",
-    "isActive": true,
-    "isStable": false
+    "isActive": true
   }
 ]
