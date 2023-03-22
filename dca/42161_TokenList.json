@@ -8,7 +8,8 @@
     "quote_rate": null,
     "balance": "0",
     "allowance": "0",
-    "isNative": true
+    "isNative": true,
+    "isActive": true
   },
   {
     "contract": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
