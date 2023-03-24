@@ -12,6 +12,18 @@
     "isActive": true
   },
   {
+    "contract": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "decimals": 18,
+    "logo": "https://arbiscan.io/token/images/arbitrumone2_32.png",
+    "quote_rate": null,
+    "type": "",
+    "balance": "0",
+    "allowance": "0",
+    "isActive": true
+  },
+  {
     "contract": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
     "name": "Wrapped Ether",
     "symbol": "WETH",
