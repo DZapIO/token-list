@@ -64,19 +64,6 @@
     "isStable": true
   },
   {
-    "contract": "0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89",
-    "name": "Frax Stablecoin",
-    "symbol": "FRAX",
-    "decimals": 18,
-    "logo": "https://polygonscan.com/token/images/frax_32.png",
-    "quote_rate": 1,
-    "type": "",
-    "balance": "0",
-    "allowance": "0",
-    "isActive": true,
-    "isStable": true
-  },
-  {
     "contract": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
     "name": "Ether",
     "symbol": "ETH",
@@ -147,6 +134,31 @@
     "balance": "0",
     "allowance": "0",
     "isActive": true
+  },
+  {
+    "contract": "0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89",
+    "name": "Frax Stablecoin",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "logo": "https://polygonscan.com/token/images/frax_32.png",
+    "quote_rate": 1,
+    "type": "",
+    "balance": "0",
+    "allowance": "0",
+    "isActive": true,
+    "isStable": true
+  },
+  {
+    "contract": "0xFF2382Bd52efaceF02Cc895bcBFc4618608AA56F",
+    "name": "One Rare",
+    "symbol": "ORare",
+    "decimals": 18,
+    "logo": "https://polygonscan.com/token/images/onerare3_32.png",
+    "quote_rate": 1,
+    "type": "",
+    "balance": "0",
+    "allowance": "0",
+    "isActive": true,
   },
   {
     "contract": "0xC3C7d422809852031b44ab29EEC9F1EfF2A58756",
