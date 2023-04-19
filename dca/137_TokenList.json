@@ -158,7 +158,7 @@
     "type": "",
     "balance": "0",
     "allowance": "0",
-    "isActive": true,
+    "isActive": true
   },
   {
     "contract": "0xC3C7d422809852031b44ab29EEC9F1EfF2A58756",
