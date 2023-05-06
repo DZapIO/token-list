@@ -257,6 +257,18 @@
     "isActive": true
   },
   {
+    "contract": "0x0169ec1f8f639b32eec6d923e24c2a2ff45b9dd6",
+    "name": "Algebra",
+    "symbol": "ALGB",
+    "decimals": 18,
+    "logo": "https://assets.coingecko.com/coins/images/19580/small/13211.png",
+    "quote_rate": null,
+    "type": "",
+    "balance": "0",
+    "allowance": "0",
+    "isActive": true
+  },
+  {
     "contract": "0x282d8efCe846A88B159800bd4130ad77443Fa1A1",
     "name": "Ocean Protocol",
     "symbol": "OCEAN",
