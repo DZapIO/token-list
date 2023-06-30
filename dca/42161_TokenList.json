@@ -149,6 +149,18 @@
     "isActive": true
   },
   {
+    "contract": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "decimals": 18,
+    "logo": "https://arbiscan.io/token/images/pendlefin_32.png",
+    "quote_rate": null,
+    "type": "",
+    "balance": "0",
+    "allowance": "0",
+    "isActive": true
+  },
+  {
     "contract": "0x13Ad51ed4F1B7e9Dc168d8a00cB3f4dDD85EfA60",
     "name": "Lido DAO",
     "symbol": "LDO",
