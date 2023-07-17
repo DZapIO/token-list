@@ -1,6 +1,6 @@
 [
   {
-    "contract": "0x000000000000000000000000000000000000800A",
+    "contract": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
     "name": "Ether",
     "symbol": "ETH",
     "decimals": 18,
