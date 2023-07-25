@@ -15,7 +15,7 @@
   {
     "contract": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
     "name": "Wrapped Ether",
-    "symbol": "wETH",
+    "symbol": "WETH",
     "decimals": 18,
     "logo": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png",
     "quote_rate": 1,
