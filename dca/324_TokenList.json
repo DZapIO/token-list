@@ -9,7 +9,7 @@
     "verified": true,
     "balance": "0",
     "allowance": "0",
-    "isActive": false,
+    "isActive": true,
     "isNative": true
   },
   {
