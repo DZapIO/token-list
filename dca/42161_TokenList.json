@@ -305,6 +305,18 @@
     "isActive": true
   },
   {
+    "contract": "0x0c4681e6c0235179ec3d4f4fc4df3d14fdd96017",
+    "name": "Radiant (OLD, do not use)",
+    "symbol": "RDNT (OLD)",
+    "decimals": 18,
+    "logo": "https://arbiscan.io/token/images/radiantcapital_32.png",
+    "quote_rate": null,
+    "type": "",
+    "balance": "0",
+    "allowance": "0",
+    "isActive": false
+  },
+  {
     "contract": "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
     "name": "MCDEX",
     "symbol": "MCB",
