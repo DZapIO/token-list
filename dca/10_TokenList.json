@@ -58,5 +58,101 @@
     "balance": "0",
     "allowance": "0",
     "isActive": true
+  },
+  {
+    "contract": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logo": "https://optimistic.etherscan.io/token/images/tether_32.png",
+    "quote_rate": 1,
+    "verified": true,
+    "balance": "0",
+    "allowance": "0",
+    "isActive": true
+  },
+  {
+    "contract": "0xFdb794692724153d1488CcdBE0C56c252596735F",
+    "name": "Lido DAO Token",
+    "symbol": "LDO",
+    "decimals": 18,
+    "logo": "https://optimistic.etherscan.io/token/images/lidodao_32.png",
+    "quote_rate": 1,
+    "verified": true,
+    "balance": "0",
+    "allowance": "0",
+    "isActive": true
+  },
+  {
+    "contract": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+    "name": "Synthetix Network Token",
+    "symbol": "SNX",
+    "decimals": 18,
+    "logo": "https://optimistic.etherscan.io/token/images/SynthetixSNX_32.png",
+    "quote_rate": 1,
+    "verified": true,
+    "balance": "0",
+    "allowance": "0",
+    "isActive": true
+  },
+  {
+    "contract": "0xC81D1F0EB955B0c020E5d5b264E1FF72c14d1401",
+    "name": "Rocket Pool Protocol",
+    "symbol": "RPL",
+    "decimals": 18,
+    "logo": "https://optimistic.etherscan.io/token/images/rplrocketpool_32.png",
+    "quote_rate": 1,
+    "verified": true,
+    "balance": "0",
+    "allowance": "0",
+    "isActive": true
+  },
+  {
+    "contract": "0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1",
+    "name": "Worldcoin",
+    "symbol": "WLD",
+    "decimals": 18,
+    "logo": "https://optimistic.etherscan.io/token/images/worldcoin_32.png",
+    "quote_rate": 1,
+    "verified": true,
+    "balance": "0",
+    "allowance": "0",
+    "isActive": true
+  },
+  {
+    "contract": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
+    "name": "Balancer",
+    "symbol": "BAL",
+    "decimals": 18,
+    "logo": "https://optimistic.etherscan.io/token/images/balancer_32.png",
+    "quote_rate": 1,
+    "verified": true,
+    "balance": "0",
+    "allowance": "0",
+    "isActive": true
+  },
+  {
+    "contract": "0xa00E3A3511aAC35cA78530c85007AFCd31753819",
+    "name": "Kyber Network Crystal v2",
+    "symbol": "KNC",
+    "decimals": 18,
+    "logo": "https://optimistic.etherscan.io/token/images/kybernetworkknc_32.png",
+    "quote_rate": 1,
+    "verified": true,
+    "balance": "0",
+    "allowance": "0",
+    "isActive": true
+  },
+  {
+    "contract": "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
+    "name": "VelodromeV2",
+    "symbol": "VELO",
+    "decimals": 18,
+    "logo": "https://optimistic.etherscan.io/token/images/velodromefinance_32.png",
+    "quote_rate": 1,
+    "verified": true,
+    "balance": "0",
+    "allowance": "0",
+    "isActive": true
   }
 ]
