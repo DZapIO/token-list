@@ -1,5 +1,17 @@
 [
   {
+        "contract": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "logo": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png",
+        "quote_rate": 1,
+        "verified": true,
+        "balance": "0",
+        "allowance": "0",
+        "isActive": true
+    },
+  {
     "contract": "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
     "name": "Chainlink",
     "symbol": "LINK",
