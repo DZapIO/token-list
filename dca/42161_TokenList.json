@@ -75,6 +75,19 @@
     "isStable": true
   },
   {
+    "contract": "0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8",
+    "name": "Camelot",
+    "symbol": "GRAIL",
+    "decimals": 18,
+    "logo": "https://arbiscan.io/token/images/camelotexchange_32.png",
+    "quote_rate": null,
+    "type": "",
+    "balance": "0",
+    "allowance": "0",
+    "isActive": true,
+    "isStable": false
+  },
+  {
     "contract": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
     "name": "Frax Stablecoin",
     "symbol": "FRAX",
