@@ -107,5 +107,17 @@
     "balance": "0",
     "allowance": "0",
     "isActive": true
+  },
+  {
+    "contract": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logo": "https://tokens-data.1inch.io/images/0x493257fd37edb34451f62edf8d2a0c418852ba4c.png",
+    "quote_rate": 1,
+    "verified": true,
+    "balance": "0",
+    "allowance": "0",
+    "isActive": true
   }
 ]
